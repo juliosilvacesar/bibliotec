@@ -9,7 +9,7 @@ public class HomeController {
 	public String home(){
 		
 		System.out.println("Chamou o meu controller");
-		return "home.jsp";
+		return "Home.jsp";
 	}
 
 }
